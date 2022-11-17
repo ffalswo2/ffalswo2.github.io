@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Introducing Lanyon
-date: 2021-11-17 15:33:00 +0900
 comment: true
 ---
 
