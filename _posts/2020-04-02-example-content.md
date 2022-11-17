@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-comment: true
+comments: true
 ---
 
 
