@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll이란
+title: Jekyll이란?
 comments: true
 ---
 
